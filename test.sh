@@ -1,4 +1,4 @@
-
+#!/bin/bash
 username=zhouzhx28
 path=~/workspace/test_1/u55c/hw
 app=host.app
